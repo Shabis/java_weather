@@ -1,0 +1,27 @@
+{
+  "name": "js_weather",
+  "description": "This is a weather app. It tells the weather.",
+  "main": "gulpfile.js",
+  "authors": [
+    "Shelby Clayton & Vanessa Palacios-Sharma"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "weather",
+    "snow"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.15.1"
+  }
+}
